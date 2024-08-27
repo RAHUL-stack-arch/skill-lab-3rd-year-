@@ -1,0 +1,1 @@
+print(f'the value in celcius is : {((5/9)*(float(input("Enter the value of farenhite=")) - 32)): .2f}')

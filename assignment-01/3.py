@@ -1,1 +1,7 @@
-print(f'the value in celcius is : {((5/9)*(float(input("Enter the value of farenhite=")) - 32)): .2f}')
+a = 10
+b = 2
+
+print(f"Addition = {a+b}")
+print(f"substraction = {a-b}")
+print(f"Multiplication = {a*b}")
+print(f"Division = {float(a/b): .2f}")
